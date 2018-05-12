@@ -1,0 +1,32 @@
+_repo: The-Lady-of-PleasureA-Comedie-As-it-was-Acted-by-her-Majesties-Servants-at-the-private-House-__45050
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45050-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shirley, James
+    aliases:
+    - Shirly, Iames
+    - Shirley, John
+    birthdate: 1596
+    deathdate: 1666
+    gutenberg_agent_id: '43047'
+    url: http://www.gutenberg.org/2009/agents/43047
+    wikipedia: http://en.wikipedia.org/wiki/James_Shirley
+description: ''
+gutenberg_issued: '2014-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 17th century'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: "The Lady of Pleasure\r\nA Comedie, as It Was Acted by Her Majesties Servants,\
+  \ at the Private House in Drury Lane"
+url: http://www.gutenberg.org/ebooks/45050
